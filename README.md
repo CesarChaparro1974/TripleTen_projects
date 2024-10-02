@@ -6,7 +6,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | :-----------: | ----------- |----------- |
 | 1 | Final Project | AtliQ Hardware. Leading computer hardware producers in India. To conduct a big audit of their sales and help them automate their existing data. |
 | 2 | Data Visualization: Python | To recreate the figure using the dataset with Plotly. The results of a mock study where 100 red squirrels were given one of three different diets after weaning, and their full grown adult weights were recorded. The task is to recreate the figure. |
-| 3 | Python Project | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
+| 3 | Python Project |  To compare the music preferences of the cities of Springfield and Shelbyville. Yandex.Music data to test the hypotheses and compare user behavior for these two cities. |
 | 4 | Storytelling with Data: Tableau | An analysis for the CEO of the Superstore to help understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
 | 5 | Spreadsheets | To help a client analyze the vacation rental market in the Manhattan borough of New York City. To analyze data collected on current Airbnb listings to identify useful insights. |
 | 6 | Machine Learning | Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. To develop a model with the highest possible accuracy. |
